@@ -1,0 +1,10 @@
+name:                <%= moduleName %>
+version:             0.0.1
+cabal-version:       >=1.4
+build-type:          Simple
+
+Description: a useful description
+
+library
+  Exposed-modules: <%= moduleName %>
+  Build-depends: base < 5, tidal-midi == 0.9.*, tidal, PortMidi, process, hashable, containers, hosc, time, bytestring

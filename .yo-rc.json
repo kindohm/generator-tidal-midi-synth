@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Mike Hodnick",
+      "authorEmail": "mike@kindohm.com",
+      "authorUrl": ""
+    }
+  }
+}
