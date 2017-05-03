@@ -1,6 +1,6 @@
 {
   "name": "generator-tidal-midi-synth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Yeoman generator for tidal-midi synth implementations.",
   "homepage": "",
   "author": {
